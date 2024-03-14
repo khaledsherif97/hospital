@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/hospital/static/css/main.0b7cdef1.css",
+    "main.js": "/hospital/static/js/main.f3caf977.js",
+    "static/js/453.e3827730.chunk.js": "/hospital/static/js/453.e3827730.chunk.js",
+    "static/media/Gemini_Generated_Image.jpg": "/hospital/static/media/Gemini_Generated_Image.2d66f2dc9e72cb81192b.jpg",
+    "static/media/fa-solid-900.ttf": "/hospital/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/Gemini_Generated_Image (2).jpg": "/hospital/static/media/Gemini_Generated_Image (2).f34d8f515def35a00352.jpg",
+    "static/media/Gemini_Generated_Image (1).jpg": "/hospital/static/media/Gemini_Generated_Image (1).66703695b44eee749c82.jpg",
+    "static/media/Gemini_Generated_Image (3).jpg": "/hospital/static/media/Gemini_Generated_Image (3).8298f0e24b48c4ef8d50.jpg",
+    "static/media/14.jpg": "/hospital/static/media/14.4f65102d2cc2cf99baf7.jpg",
+    "static/media/fa-brands-400.ttf": "/hospital/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/hospital/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/essential-medical-tests-for-men.jpg": "/hospital/static/media/essential-medical-tests-for-men.3497c9ba586a839d3d55.jpg",
+    "static/media/fa-brands-400.woff2": "/hospital/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/lab1.jpg": "/hospital/static/media/lab1.1886a22c4fa01919d8d2.jpg",
+    "static/media/main-qimg--lq.jpg": "/hospital/static/media/main-qimg-58583d02165a1536a457214574aabaa2-lq.8f99867177fe7686e697.jpg",
+    "static/media/fa-regular-400.ttf": "/hospital/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/Your paragraph text.png": "/hospital/static/media/Your paragraph text.3c658256b97af8f27558.png",
+    "static/media/fa-regular-400.woff2": "/hospital/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/hospital/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/hospital/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/logo.svg": "/hospital/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/hospital/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hospital/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hospital/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hospital/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hospital/index.html",
+    "main.0b7cdef1.css.map": "/hospital/static/css/main.0b7cdef1.css.map",
+    "main.f3caf977.js.map": "/hospital/static/js/main.f3caf977.js.map",
+    "453.e3827730.chunk.js.map": "/hospital/static/js/453.e3827730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b7cdef1.css",
+    "static/js/main.f3caf977.js"
+  ]
+}
